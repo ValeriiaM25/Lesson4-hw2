@@ -1,12 +1,17 @@
-* {
-    transition: all .1s ease-in;
-}
+/* Reset css */
+
+
 
 body {
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     margin: 0px;
     background-color:  #3B3F45;
+}
+
+/* base css */
+* {
+    transition: all .1s ease-in;
 }
 
 header {
